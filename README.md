@@ -1,2 +1,2 @@
 # blog-test
-Blog de prueba de Platzy
+Blog de prueba de Platzi
